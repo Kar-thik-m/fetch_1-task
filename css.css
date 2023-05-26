@@ -1,0 +1,20 @@
+.title{
+    
+    text-align: center;
+    color: rgb(163, 25, 25);
+    border: 1px solid black;
+    margin-top: 20px;
+    padding-top: 5px;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.table{
+    padding: 0px 20px;
+}
+.card{
+    margin-top: 50px;
+    background-color: rgb(245, 242, 239);
+    box-shadow: 2px 5px;
+
+}
